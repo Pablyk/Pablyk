@@ -1,7 +1,7 @@
 # 👋 Pablyk  
 
-🌍 Žilina, Slovensko 
-💻 **Java** and **JavaScript** developer  
+- 🌍 Žilina, Slovensko 
+- 💻 **Java** and **JavaScript** developer  
 
 ---
 
